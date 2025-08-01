@@ -52,10 +52,13 @@ Software Engineer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
     </picture>
   </a>
-  <a href="https://t.me/bezbig" target="_blank" rel="noreferrer">
-    <img src="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" width="32" height="32" alt="Telegram" title="Telegram" />
+  <a href="http://www.telegram.com/bezbig" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
+    </picture>
   </a>
 </p>
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEZBIG&theme=github_dark)
