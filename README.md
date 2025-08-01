@@ -57,4 +57,6 @@
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEZBIG&theme=github_dark)
+<div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEZBIG&theme=github_dark)
+</div>
