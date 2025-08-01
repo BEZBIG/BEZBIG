@@ -53,6 +53,6 @@ Software Engineer
     </picture>
   </a>
   <a href="https://t.me/bezbig" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" height="32" alt="Telegram" title="Telegram" />
+    <img src="https://gist.github.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1#file-telegram-single-path-240px-svg" width="32" height="32" alt="Telegram" title="Telegram" />
   </a>
 </p>
