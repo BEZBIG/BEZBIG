@@ -58,5 +58,5 @@
 </p>
 
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEZBIG&theme=github_dark)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEZBIG&theme=github_dark" alt="Profile Details" />
 </div>
