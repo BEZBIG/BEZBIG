@@ -1,4 +1,7 @@
-Привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Никита Безбородов (BEZBIG)
+<div align="center">
+
+# Привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Никита Безбородов (BEZBIG)
+
 ===============================================================================================================================================================================================================================
 
 Меня зовут Никита, мне 20 лет. Я студент 3 курса РТУ МИРЭА (Москва), обучаюсь по направлению "Программная инженерия" в Институте информационных технологий. Здесь вы найдёте мои учебные и пет-проекты.
@@ -6,10 +9,9 @@
 * 🌍  Мое местоположение: Россия, Москва
 * ✉️  Вы можете со мной связаться: [bezbig@yandex.ru](mailto:bezbig@yandex.ru)
 
+## Навыки
 
-### Навыки
-
-<p align="left">
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" title="Kotlin"/></a>
@@ -24,9 +26,9 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 </p>
 
-### Социальные сети
+## Социальные сети
 
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/bezbig" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
@@ -48,15 +50,15 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
     </picture>
   </a>
-  <a href="http://www.telegram.com/bezbig" target="_blank" rel="noreferrer">
+  <a href="https://t.me/bezbig" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bbzzbbgg/tg/blob/main/icons8-telegram-app-240.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
+      <img src="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" width="32" height="32" alt="Telegram" title="Telegram" />
     </picture>
   </a>
 </p>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEZBIG&theme=github_dark" alt="Profile Details" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEZBIG&theme=github_dark" alt="Profile Details" />
+
 </div>
