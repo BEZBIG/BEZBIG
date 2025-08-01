@@ -3,13 +3,13 @@
 
 Меня зовут Никита, мне 20 лет. Я студент 3 курса РТУ МИРЭА (Москва), обучаюсь по направлению "Программная инженерия" в Институте информационных технологий. Здесь вы найдёте мои учебные и пет-проекты.
 
-🌍  Мое местоположение: Россия, Москва
-✉️  Вы можете со мной связаться: [bezbig@yandex.ru](mailto:bezbig@yandex.ru)
+* 🌍  Мое местоположение: Россия, Москва
+* ✉️  Вы можете со мной связаться: [bezbig@yandex.ru](mailto:bezbig@yandex.ru)
 
 
 ### Навыки
 
-<p align="center">
+<p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" title="Kotlin"/></a>
@@ -26,7 +26,7 @@
 
 ### Социальные сети
 
-<p align="center">
+<p align="left">
   <a href="https://discord.com/users/bezbig" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
