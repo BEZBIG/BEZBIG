@@ -51,7 +51,7 @@
   </a>
   <a href="https://t.me/bezbig" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bbzzbbgg/tg/blob/main/icons8-telegram-app-240.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" />
       <img src="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" width="32" height="32" alt="Telegram" title="Telegram" />
     </picture>
