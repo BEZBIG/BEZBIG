@@ -60,5 +60,6 @@
   </a>
 </p>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEZBIG&theme=github_dark" alt="Profile Details" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BEZBIG&theme=github_dark" alt="Profile Details" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BEZBIG&theme=github_dark" />
 
 </div>
