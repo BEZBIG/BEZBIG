@@ -27,6 +27,16 @@
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
 </p>
 
+## Достижения
+
+<p align="center">
+  <img src="https://github.com/BEZBIG/BEZBIG/blob/main/Выпускник_курса_Мобильная_разработка_на_Kotlin_Samsung_Innovation_Campus.png" width="120" height="120" alt="Samsung Innovation Campus" title="Выпускник курса «Мобильная разработка на Kotlin»" />
+</p>
+
+<p align="center">
+  <b>Выпускник курса «Мобильная разработка на Kotlin» — Samsung Innovation Campus</b>
+</p>
+
 ## Социальные сети
 
 <p align="center">
